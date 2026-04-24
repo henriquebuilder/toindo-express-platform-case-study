@@ -1,5 +1,16 @@
 # 🚚 Enterprise Logistics System — Real-Time SaaS Platform
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)
+![React](https://img.shields.io/badge/React-19-61DAFB)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020)
+![Hono](https://img.shields.io/badge/Hono-API-E36002)
+![D1](https://img.shields.io/badge/Database-D1%20(SQLite)-0A0A0A)
+![SSE](https://img.shields.io/badge/Real--Time-SSE-green)
+![Tailwind](https://img.shields.io/badge/Tailwind-3.x-06B6D4)
+![n8n](https://img.shields.io/badge/Automation-n8n-orange)
+![AI](https://img.shields.io/badge/AI-Groq%20LLM-purple)
+
 Scalable logistics management system designed for real-world operations, featuring real-time tracking, routing optimization, and high data consistency.
 
 > Built with a serverless edge architecture to support real-time operations, complex workflows, and production-grade reliability.
