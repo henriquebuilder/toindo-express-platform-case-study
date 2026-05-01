@@ -162,7 +162,7 @@ It is a **production-oriented platform** designed to handle:
 ## 📫 Contact
 
 - GitHub: https://github.com/henriquebuilder  
-- LinkedIn: https://www.linkedin.com/in/luis-henrique-da-silva-cunha-89bba8124  
+- LinkedIn: https://www.linkedin.com/in/luis-henrique-da-silva-cunha  
 
 ---
 
