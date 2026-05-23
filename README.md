@@ -1,4 +1,4 @@
-# 🚚 Enterprise Logistics System — Real-Time SaaS Platform
+#  Enterprise Logistics System — Real-Time SaaS Platform
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)
 ![React](https://img.shields.io/badge/React-19-61DAFB)
@@ -12,7 +12,7 @@ Scalable logistics management system designed for real-world operations, featuri
 
 ---
 
-## 🧠 Problem
+##  Problem
 
 Logistics operations typically suffer from:
 
@@ -25,7 +25,7 @@ This platform was designed to solve these challenges using a real-time, event-dr
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 Frontend (React SPA)
 → Cloudflare Edge (Workers + Hono)
 → D1 Database (SQLite)
@@ -41,43 +41,43 @@ Frontend (React SPA)
 
 ---
 
-## ⚡ Key Features
+##  Key Features
 
-### 📦 Order & Routing System
+###  Order & Routing System
 - Multi-driver routing with dynamic assignment
 - Intelligent delivery allocation
 - Route segmentation and optimization
 
-### ⚙️ Workflow & Automation
+###  Workflow & Automation
 - State-machine-based order lifecycle
 - Automatic transitions based on system events
 - Integration with automation pipelines (**n8n + Groq LLM**)
 
-### 📡 Real-Time Infrastructure
+###  Real-Time Infrastructure
 - Live updates using SSE
 - Instant notification system
 - Real-time GPS tracking
 
-### 📸 Validation System
+###  Validation System
 - 3-step photo verification:
   - Pickup
   - Delivery
   - Proof-of-delivery (receipt)
 - Automatic state transitions after validation
 
-### 🚛 Fleet & Driver Management
+###  Fleet & Driver Management
 - Vehicle maintenance tracking (KM-based alerts)
 - Driver checklist system (EPI + vehicle condition)
 - Fixed driver-vehicle assignment logic
 
-### 🔐 Audit & Security
+###  Audit & Security
 - Full event tracking system
 - Operational traceability
 - Role-based actions and validations
 
 ---
 
-## 🚀 Impact
+##  Impact
 
 - **~97% reduction in API requests** (SSE vs polling)
 - **Real-time updates < 1s latency**
@@ -86,7 +86,7 @@ Frontend (React SPA)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React
@@ -115,7 +115,7 @@ Frontend (React SPA)
 
 ---
 
-## 🧠 Engineering Highlights
+##  Engineering Highlights
 
 - Atomic database operations to ensure consistency
 - Optimistic locking to prevent race conditions
@@ -125,7 +125,7 @@ Frontend (React SPA)
 
 ---
 
-## 📊 System Design Highlights
+##  System Design Highlights
 
 - Handles complex business rules (logistics + routing + validation)
 - Designed for real-world operational workflows
@@ -134,9 +134,9 @@ Frontend (React SPA)
 
 ---
 
-## 🖼️ Demo
+##  Demo
 
-> ⚠️ Add screenshots and video demo here
+>  Add screenshots and video demo here
 
 Recommended:
 - Dashboard
@@ -146,7 +146,7 @@ Recommended:
 
 ---
 
-## 🎯 Why This Project Matters
+##  Why This Project Matters
 
 This system is not a prototype.
 
@@ -159,14 +159,14 @@ It is a **production-oriented platform** designed to handle:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - GitHub: https://github.com/henriquebuilder  
 - LinkedIn: https://www.linkedin.com/in/luis-henrique-da-silva-cunha  
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This repository represents a **case study version** of a private commercial system.
 
@@ -176,6 +176,6 @@ The purpose of this repository is to demonstrate **architecture decisions, syste
 
 ---
 
-## 📄 License
+##  License
 
 MIT
